@@ -1,0 +1,50 @@
+h4 {
+    color: black;
+    font-size: 150%;
+}
+
+logo {
+    margin-left: 400px;
+}
+
+.img {
+    align-items: stretch;
+    margin-left: 450px;
+    padding-right: 60%;
+}
+
+.home-page {
+    margin-left: 6%;
+    /* width: fit-content; */
+    font-size: 100%;
+}
+
+body {
+    background-color: burlywood;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: normal;
+}
+
+.pragraph {
+    font-size: x-large;
+}
+
+.getstarted {
+    height: 80%;
+    background-color: brown;
+    border-radius: 5px;
+    width: 200px;
+    margin-left: 20%;
+    margin-right: 3%;
+    font-size: x-large;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: cornflowerblue;
+    border-radius: 15%;
+}

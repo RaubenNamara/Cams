@@ -1,0 +1,85 @@
+h1 {
+    color: royalblue;
+    font: normal;
+    text-align: center;
+}
+
+.select {
+    font-size: xx-large;
+}
+
+h3 {
+    color: dodgerblue;
+    height: 80%;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 20%;
+    margin-right: 30%;
+    font-size: x-large;
+}
+
+body {
+    background-color: burlywood;
+    font-size: x-large;
+}
+
+a {
+    text-decoration: none;
+}
+
+.login-page button[type="text"] {
+    border-radius: 10px;
+    margin-right: 20%;
+}
+
+.mybtn {
+    border-radius: 10px;
+}
+
+.enrol {
+    height: 80%;
+    background-color: rgb(147, 200, 243);
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 20%;
+    margin-right: 3%;
+    font-size: x-large;
+}
+
+.generate {
+    height: 80%;
+    background-color: rgb(101, 190, 241);
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 20%;
+    margin-right: 3%;
+    font-size: x-large;
+}
+
+.edit {
+    height: 80%;
+    background-color: rgb(137, 177, 250);
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 20%;
+    margin-right: 30%;
+    font-size: x-large;
+}
+
+.btn {
+    height: 80%;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 20%;
+    margin-right: 30%;
+    font-size: x-large;
+}
+
+.footer {
+    height: 80%;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 20%;
+    margin-right: 30%;
+    font-size: x-large;
+}
